@@ -10036,8 +10036,8 @@ const mT = R.forwardRef((t, e) => {
     _.jsx(ys.Provider, {
       value: {
         CAvalue: "0xcomingsoon",
-        TwitterLink: "https://x.com/PopcateEth",
-        TelegramLink: "https://t.me/PopcateEth",
+        TwitterLink: "https://x.com/Erc20Misha",
+        TelegramLink: "https://t.me/Erc20Misha",
       },
       children: t,
     }),
