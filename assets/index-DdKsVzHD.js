@@ -16749,7 +16749,7 @@ function dD() {
           "flex flex-row mt-12 lg:w-1/2 xl:max-w-[700px] items-center justify-center space-x-8",
         children: [
           _.jsx("a", {
-            href: `https://dexscreener.com/ethereum/0xC9d2a98053D279Fa2F890EcED03FB73a760498a1`,
+            href: `https://dexscreener.com/ethereum/0xf67b3dcf2523f27c858d3c2dc940fc4d12cccd3b`,
             className:
               "text-2xl bg-peach-400 hover:bg-peach-500 duration-300 hover:scale-105 hover:text-white px-5 py-3 rounded-md border-5 border-neutral-950",
             children: "BUY NOW",
@@ -25918,7 +25918,7 @@ function tB() {
           _.jsx(l8, {
             className: "flex",
             children: _.jsx(br, {
-              href: `https://dexscreener.com/ethereum/0xC9d2a98053D279Fa2F890EcED03FB73a760498a1`,
+              href: `https://dexscreener.com/ethereum/0xf67b3dcf2523f27c858d3c2dc940fc4d12cccd3b`,
               className:
                 "bg-peach-500  hover:bg-peach-600 hover:scale-105 duration-600 px-4 border-2 border-neutral-950 rounded-md py-2 transition-all",
               children: _.jsx("h4", {
@@ -25944,7 +25944,7 @@ function tB() {
           _.jsx(mb, { className: "my-4 bg-neutral-950/40" }),
           _.jsx(R1, {
             as: br,
-            href: `https://dexscreener.com/ethereum/0xC9d2a98053D279Fa2F890EcED03FB73a760498a1`,
+            href: `https://dexscreener.com/ethereum/0xf67b3dcf2523f27c858d3c2dc940fc4d12cccd3b`,
             target: "_blank",
             className: "bg-peach-500 border-2 border-neutral-950 rounded-md",
             children: _.jsx("h4", {
@@ -44570,7 +44570,7 @@ function WW() {
       //   }),
       // }),
       _.jsx(br, {
-        href: `https://dexscreener.com/ethereum/0xC9d2a98053D279Fa2F890EcED03FB73a760498a1`,
+        href: `https://dexscreener.com/ethereum/0xf67b3dcf2523f27c858d3c2dc940fc4d12cccd3b`,
         target: "_blank",
         children: _.jsx(ct.img, {
           initial: { opacity: 0 },
@@ -44580,7 +44580,7 @@ function WW() {
         }),
       }),
       _.jsx(br, {
-        href: `https://www.dextools.io/app/en/ether/pair-explorer/0xC9d2a98053D279Fa2F890EcED03FB73a760498a1`,
+        href: `https://www.dextools.io/app/en/ether/pair-explorer/0xf67b3dcf2523f27c858d3c2dc940fc4d12cccd3b?t=1726998202747`,
         target: "_blank",
         children: _.jsx(ct.img, {
           initial: { opacity: 0 },
