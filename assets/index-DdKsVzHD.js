@@ -44698,7 +44698,7 @@ function $W() {
                     children: "🔥 100% BURNED 🔥",
                   }),
                   _.jsxs("a", {
-                    href: "https://etherscan.io/tx/",
+                    href: "https://etherscan.io/tx/0x52d167f18ac4d4f54e03e3b087e671f0243955e94305e533c481c75da603eaca",
                     target: "_blank",
                     className: "flex items-center space-x-2",
                     children: [
